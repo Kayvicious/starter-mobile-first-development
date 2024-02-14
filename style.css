@@ -27,3 +27,19 @@ main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
 }
+
+
+main img {
+  width: 100%
+}
+
+.group {
+  margin-bottom: 100px;
+}
+@media all and (min-width: 600px) {
+  section,
+  h1 {
+    padding: 0 10%;
+  }
+  
+}
